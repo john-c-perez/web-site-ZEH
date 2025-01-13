@@ -310,6 +310,7 @@
   .resultado-table th {
     background-color: #e6ffe6;
     color: #155724;
+    
   }
 
   .resultado-table td {
